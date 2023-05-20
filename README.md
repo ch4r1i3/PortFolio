@@ -1,5 +1,7 @@
 <div>
-  
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/CCS3-green" />
+    <img src="https://img.shields.io/badge/HTLM5-Blue" />
 </div>
 
 # Despcription 
