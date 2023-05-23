@@ -25,8 +25,8 @@ const App = () => {
       <Contact />
     </main>
 
-      <Footer />
       <ScrollUp />
+      <Footer />
     </>
 
   );
